@@ -19,7 +19,7 @@
         "psr-0": {"SilexMobileDetect": "src/"}
     },
     "minimum-stability": "RC",
-    "prefer-stable": "true",
+    "prefer-stable": "false",
     "repositories": [
     {
         "type": "vcs",
