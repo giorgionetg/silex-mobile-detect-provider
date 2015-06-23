@@ -18,7 +18,7 @@
     "autoload": {
         "psr-0": {"SilexMobileDetect": "src/"}
     },
-    "minimum-stability": "RC",
+    "minimum-stability": "dev",
     "prefer-stable": "false",
     "repositories": [
     {
