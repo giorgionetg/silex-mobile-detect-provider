@@ -1,0 +1,21 @@
+{
+    "name": "giorgionetg/silex-mobile-detect-provider",
+    "type": "library",
+    "description": "A simple implementation of MobileDetect.net as a Silex Provider.",
+    "keywords": ["silex", "mobile", "mobile detect", "mobile detect provider", "mobiledetect.net"],
+    "homepage": "http://github.com/giorgionetg/silex-mobile-detect-provider",
+    "license": "...",
+    "authors": [
+        {
+            "name": "Giorgio Tedesco",
+            "email": "giorgionetg@gmail.com"
+        }
+    ],
+    "require": {
+        "silex/silex": "~1.1",
+        "mobiledetect/mobiledetectlib": "dev-master"
+    },
+    "autoload": {
+        "psr-0": {"SilexMobileDetect": "src/"}
+    }
+}
