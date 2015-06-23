@@ -17,5 +17,11 @@
     },
     "autoload": {
         "psr-0": {"SilexMobileDetect": "src/"}
+    },
+    "repositories": [
+    {
+        "type": "vcs",
+        "url": "https://github.com/giorgionetg/silex-mobile-detect-provider.git"
     }
+]
 }
